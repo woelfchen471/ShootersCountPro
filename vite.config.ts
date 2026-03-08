@@ -11,9 +11,9 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['favicon.svg', 'icon-192.png', 'icon-512.png'],
       manifest: {
-        name: 'Shooters Count – Schießergebnis Zähler',
-        short_name: 'ShootersCount',
-        description: 'PWA zur manuellen Erfassung von Schießergebnissen',
+        name: 'Shooters Count Pro – Schießergebnis Zähler',
+        short_name: 'ShootersCountPro',
+        description: 'Erweiterte PWA zur Erfassung von Schießergebnissen',
         theme_color: '#0f172a',
         background_color: '#0f172a',
         display: 'standalone',
