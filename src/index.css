@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@layer base {
+  html, body, #root {
+    height: 100dvh;
+    overflow: hidden;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-touch-callout: none;
+    user-select: none;
+  }
+}
